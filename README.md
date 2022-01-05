@@ -35,9 +35,9 @@
 <br />
 
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=tahaimran&theme=react-dark" alt="tahaimran" /></p> 
-
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaimran&show_icons=true&locale=en&layout=compact&theme=dark" alt="tahaimran" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahaimran&show_icons=true&locale=en&theme=dark" alt="tahaimran" /></p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tahaimran&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="tahaimran" /></p>
