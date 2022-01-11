@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taha Imran</h1>
 <h3 align="center">A Passionate 👨‍💻 Frontend Developer from 🇵🇰</h3>
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/999315060509102080/1641301819/1500x500)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4E16AQG82roMFjBmhw/profile-displaybackgroundimage-shrink_350_1400/0/1641902872643?e=1647475200&v=beta&t=yUCK3fzMo1B21-zJxQL5q7pHDZM8BSrdA3za0Ykq4qg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaimran&label=Profile%20views&color=0e75b6&style=flat" alt="tahaimran" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaimran&label=Profile%20views&color=orange&style=flat" alt="tahaimran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahaimran&theme=darkhub" alt="tahaimran" /></a> </p>
 
