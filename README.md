@@ -19,6 +19,17 @@
 
 - 📫 How to reach me **tahaimran.24@gmail.com**
 
+<h1 align="center">👦 About Taha</h1>
+<p >
+My journey starts 😮 8 years ago when I was 🧒 10 years old. I was a big ❤️ fond of research 📙 and learning new stuff at that time like MS Office and exploring 💻 OS as time goes. I was introduced to different fields like 🎨 Graphic Design, 📷 Video Editing and then after 3 Years, I got to know about 👨‍💻coding like how websites are being made ad tiny 💡 stuff related to it. The first programming language I started to learn was 🐍 Python. <br />
+  
+I still remember the moment when I write HelloWorld, and the output feeling 😊 was amazing. But after some days 😒 I failed to catch up. For the next 2 years, I totally focused on HTML & CSS and develop many sites. It gave me confidence 😎 and for the last 3 years, I am learning new stuff like 💪 react, typescript, javascript, and 📈much more. <br/>
+  
+Love to create content and engage the 👥 community. My Passion for code drives me to become a 🏆Cloud Native Hackathon Winner and 🏆 showcase Dev Of the Week.
+  
+</p>
+
+
 <h1 align="center">🤝 Connect With Me:</h1>
 <p align="center">
 <a style='margin-right:20px'href="https://twitter.com/tahaimran24" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="tahaimran24" /></a><a style='margin-right:20px'  href="https://linkedin.com/in/taha-imrann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="taha-imrann" /></a><a style='margin-right:20px' href="https://fb.com/tahaimran24" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tahaimran24"/></a><a style='margin-right:20px' href="https://instagram.com/tuahaimran" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="tuahaimran"></a>
